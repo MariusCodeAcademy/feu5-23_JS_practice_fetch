@@ -11,9 +11,3 @@
 3. issiusti i api post.
 4. jei pavyko perradresuoti i index.html
 5. jei ne pranesti apie klaida
-
-### single-property.html
-
-1. gauti prekes id
-2. parisisiusti preke
-3. nupieti preke htmle (sugeneruoti makeOneSingleItem single produkta)
